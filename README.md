@@ -1,10 +1,9 @@
 # Blog_post_api_Express
-In this api 
-you can interact with
-1-signin
-2-signup
-3-forgotPassword
-4-updatePost
-5-deletePost
-6-getPost
-7-getAllUsers
+In this api  you can interact with
+\n 1-signin
+\n 2-signup
+\n 3-forgotPassword
+\n 4-updatePost
+\n 5-deletePost
+\n 6-getPost
+\n 7-getAllUsers
