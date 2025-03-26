@@ -1,0 +1,23 @@
+post sign
+{
+        "username":"Abhay",
+        "password":"123456789",
+        "firstName":"Abhay",
+        "lastName":"Mishra",
+        "phone":"8090064768",
+        "email":"m.mratunjay123@gmail.com",
+        "bio":"life is all about fun",
+        "age":"25",
+        "post":"this is my first post",
+        "noOfPost":1,
+        "gender":"male"
+        
+}    
+patch :  http://localhost:3000/user
+get:  http://localhost:3000/user
+get:  http://localhost:3000/user/allusers
+post:  http://localhost:3000/user/signin
+post:  http://localhost:3000/user/signup
+post:  http://localhost:3000/user/forgotpassword
+post:  http://localhost:3000/user/verifyotp
+delete:  http://localhost:3000/user/iddelete/2
