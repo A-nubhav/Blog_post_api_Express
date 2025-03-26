@@ -1,0 +1,29 @@
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Ignore Environment Variables
+.env
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.pid
+*.seed
+*.csv
+*.sqlite
+.DS_Store
+Thumbs.db
+
+# Ignore build and deployment files
+dist/
+out/
+coverage/
+
+# Ignore system files
+.vscode/
+.idea/
+*.swp
+*.swo
